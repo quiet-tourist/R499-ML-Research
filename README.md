@@ -15,7 +15,8 @@ Binary classification using the Wisconsin Diagnostic Breast Cancer dataset. Adds
 Multiclass classification of dry-bean varieties using a feed-forward neural network. Extends the workflow to multiclass cross-entropy, hidden-layer activation, best-weight selection, and multiclass confusion-matrix evaluation.
 
 **04 — Convolutional Neural Networks**\
-Upcoming.
+Modified LeNet-5 utilizing ReLU and Max Pooling using the MNIST dataset for handwritten numerical digital classification. Retains the use of best-weight selection and adds randomized single input prediction capabilities.
+
 
 Additional model families will be added as the independent study progresses.
 
